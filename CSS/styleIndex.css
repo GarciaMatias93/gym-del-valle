@@ -128,7 +128,7 @@ h3 {
 
 .form {
   justify-content: center;
-  background-color: rgb(92, 92, 92);
+  background-image: linear-gradient(to bottom, #2d3234, #777b7d);
   width: 350px;
   height: 400px;
   padding: 2rem;
