@@ -29,6 +29,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 1;
+  background-image: linear-gradient(to bottom, #4595e0, #5c6a7b );
 }
 
 .nav__logo {
@@ -87,7 +88,8 @@ h1 {
 .footer {
   padding-top: 1rem;
   background-color: rgb(57, 57, 58);
-  color: rgb(170, 167, 167);
+  color: rgb(243, 235, 235);
+  background-image: linear-gradient(to top, #4595e0, #5c6a7b );
 }
 h4 {
   text-align: center;
